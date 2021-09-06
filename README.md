@@ -1,3 +1,4 @@
 # Repositori GitHub Tim 6
 Anggota :
-- Sofyan Hidayat Budiyono (19/444072/TK/49268)
+* Firdaus Bisma Suryakusuma (19/444051/TK/49247)
+* Sofyan Hidayat Budiyono (19/444072/TK/49268)
